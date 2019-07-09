@@ -1,0 +1,40 @@
+﻿  bm3d.cpp
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(51,24): warning C4244:  “=”: 从“const float”转换到“uchar”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(70,27): warning C4244:  “参数”: 从“double”转换到“float”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(93,22): warning C4305:  “初始化”: 从“double”到“float”截断
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(110,27): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(111,27): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(163,23): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(164,23): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(245,27): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(339,25): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(383,40): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(384,50): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(400,42): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(401,51): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(428,14): warning C4244:  “return”: 从“double”转换到“float”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(448,14): warning C4244:  “return”: 从“double”转换到“float”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(460,13): warning C4244:  “return”: 从“double”转换到“float”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(468,25): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(513,32): warning C4305:  “=”: 从“double”到“_Tp”截断
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(513,32): warning C4305:         with
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(513,32): warning C4305:         [
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(513,32): warning C4305:             _Tp=float
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(513,32): warning C4305:         ]
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(514,32): warning C4305:  “=”: 从“double”到“_Tp”截断
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(514,32): warning C4305:         with
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(514,32): warning C4305:         [
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(514,32): warning C4305:             _Tp=float
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(514,32): warning C4305:         ]
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(515,32): warning C4305:  “=”: 从“double”到“_Tp”截断
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(515,32): warning C4305:         with
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(515,32): warning C4305:         [
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(515,32): warning C4305:             _Tp=float
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(515,32): warning C4305:         ]
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(516,32): warning C4305:  “=”: 从“double”到“_Tp”截断
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(516,32): warning C4305:         with
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(516,32): warning C4305:         [
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(516,32): warning C4305:             _Tp=float
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(516,32): warning C4305:         ]
+E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(516,32): warning C4305: E:\opencv_learn\BM3D\opencv_test\bm3d.cpp(526) : warning C4715: “gen_kaiser”: 不是所有的控件路径都返回值
+  opencv_test.vcxproj -> E:\opencv_learn\BM3D\x64\Debug\opencv_test.exe

@@ -1,0 +1,2 @@
+﻿  main.cpp
+E:\opencv_learn\BM3D - 副本\opencv_test\main.cpp(1,10): error C1083:  无法打开包括文件: “opencv2/imgcodecs.hpp”: No such file or directory
